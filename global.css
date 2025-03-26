@@ -37,3 +37,7 @@ body {
     letter-spacing: 3.75pt;
     padding-top: 50px;
 }
+
+#logo {
+    max-height: 150px;
+}
